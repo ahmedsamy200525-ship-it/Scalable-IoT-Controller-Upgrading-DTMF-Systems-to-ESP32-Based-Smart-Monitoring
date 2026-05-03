@@ -77,6 +77,19 @@ Bluetooth Mode (IoT): Use the Dabble App (Terminal Mode) to send commands. The s
 
 ## GSM Mode (Legacy): Call the system from any phone and use the dial pad to trigger commands via DTMF tones.
 
+
+
+## Academic Context
+This project was developed as a practical application for the **Automatic Control** course at Mansoura National University. 
+The system demonstrates the principles of **Closed-Loop Monitoring** and feedback integration. By utilizing the I2C LCD and Bluetooth Serial Terminal, the system provides real-time state confirmation (Feedback), ensuring that the controller's output matches the user's intent—a fundamental concept in reliable control system design.
+
+## Key Engineering Solutions
+* **Power Stability:** Overcoming SIM800L voltage drops using electrolytic capacitors.
+* **Noise Mitigation:** Implementing software debounce and internal pull-up resistors to prevent ghost switching.
+* **Boot Safety:** Strategic GPIO selection (16, 17) to ensure stable startup states for connected actuators.
+
+
+
 ## Media and Demonstration
 Watch the Project in Action
 
