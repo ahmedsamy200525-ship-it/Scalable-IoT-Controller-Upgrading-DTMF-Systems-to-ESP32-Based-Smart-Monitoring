@@ -57,7 +57,7 @@ Bluetooth Serial, SIM800L GSM Module, DTMF Decoder.
 
 ## Power Management:
 
-7805 Voltage Regulator for 5V stability, Step-down modules, and stabilizing capacitors.
+7805 Voltage Regulator for 5V stability, LM2596S DC-DC Converter 3A Step Down Module , and stabilizing capacitors.
 
 
 ## Safety Implementation: 
