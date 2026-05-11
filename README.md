@@ -1,4 +1,4 @@
-## Hybrid Scalable Smart Home: Upgrading Legacy GSM-DTMF to ESP32 IoT Control
+## Hybrid Scalable Smart Home: Upgrading Legacy GSM-DTMF to ESP32 IoT Control V2.0
 ## Overview
 This project represents a technical evolution of a home automation system, transitioning from a Legacy V1.0 (based on Arduino Uno and GSM-DTMF) to an Enhanced V2.0 powered by the ESP32 IoT ecosystem. The core philosophy of this upgrade is Scalability—maintaining the reliability of the established GSM infrastructure while integrating modern, high-speed IoT capabilities.
 
@@ -98,6 +98,11 @@ Watch the Project in Action
 
 
 https://github.com/user-attachments/assets/f2c1add1-a0ae-4592-b374-48e41ddaf996
+
+
+
+<img width="2816" height="1536" alt="بلوك دايجرام" src="https://github.com/user-attachments/assets/acfa50e0-dfbc-402f-9446-f4ed74148564" />
+
 
 
 
